@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+psycopg-pool
+pydantic
+pydantic-settings
+langchain
+langchain-openai
+langgraph
+langgraph-checkpoint-postgres
+chromadb
+python-dotenv
+langchain_groq
+langchain_community
+langchain_chroma
+npm install && npm install react-router-dom lucide-react
